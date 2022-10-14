@@ -124,6 +124,7 @@ p{
     }
     .container{
         grid-template-columns: repeat(4, 1fr);
+        margin: 7%;
     }
     #one{
         grid-column: 1/3;
